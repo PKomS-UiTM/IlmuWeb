@@ -65,9 +65,3 @@
 - **VIDEO TUTORIAL**
   - [Joomla! CMS](/video/joomla.md)
   - [Troubleshoot](/video/troubleshooting.md)
-  - [01](/video/laragon.md)
-  - [01](/video/laragon.md)
-  - [01](/video/laragon.md)
-  - [01](/video/laragon.md)
-  - [01](/video/laragon.md)
-  - [01](/video/laragon.md)
