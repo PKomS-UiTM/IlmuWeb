@@ -1,0 +1,15 @@
+docs/.DS_Store
+docs/node_modules/
+docs/_sidebar.md.bak  # If you create backups of your sidebar
+
+# General ignore patterns
+.DS_Store
+.vscode/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+*.log
+*.tmp
+*~
